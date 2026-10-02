@@ -1,0 +1,9 @@
+streamlit>=1.40
+langchain>=0.3
+langchain-core>=0.3
+langchain-google-genai>=2.1
+langchain-anthropic>=0.3
+langchain-openai>=0.2
+pydantic>=2.6
+pytest>=8.0
+python-dotenv>=1.0
