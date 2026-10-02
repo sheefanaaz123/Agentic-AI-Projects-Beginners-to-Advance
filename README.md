@@ -34,12 +34,12 @@ The roadmap is deliberately sequenced so that every phase introduces a _new clas
 
 Deployed applications you can use right now, without cloning anything.
 
-| #       | Project                                 | Live App                                                        | Status         |
-| :------ | :-------------------------------------- | :-------------------------------------------------------------- | :------------- |
-| **#01** | Smart Weather & Travel Advice Assistant | **[🔗 Launch App](https://smart-weather-agent.streamlit.app/)** | ✅ Live        |
-| #02     | Automated Financial Calculator Agent    | —                                                               | 🚧 In Progress |
-| #03     | Web-Search Summarizer Agent             | —                                                               | 🚧 In Progress |
-| #04     | SQL Query & Analytics Assistant         | —                                                               | 📋 Planned     |
+| #       | Project                                 | Live App                                                                         | Status         |
+| :------ | :-------------------------------------- | :------------------------------------------------------------------------------- | :------------- |
+| **#01** | Smart Weather & Travel Advice Assistant | **[🔗 Launch App](https://smart-weather-agent.streamlit.app/)**                  | ✅ Live        |
+| **#02** | Automated Financial Calculator Agent    | **[🔗 Launch App](https://automated-financial-calculator-agent.streamlit.app/)** | ✅ Live        |
+| #03     | Web-Search Summarizer Agent             | —                                                                                | 🚧 In Progress |
+| #04     | SQL Query & Analytics Assistant         | —                                                                                | 📋 Planned     |
 
 _Deployment links are added to this table as each project ships. Watch ⭐ the repo to get notified._
 
